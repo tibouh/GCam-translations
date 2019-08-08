@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hdr_processing">Incapable de basculer d'objectif. Il y a un traitement photo en cours. Réessayez plus tard.</string>
+    <string name="three_cameras">Incapable de basculer d'objectif. Votre système ne supporte pas l'objectif auxiliaire arrière.</string>
+    <string name="pref_auxbackcamera_title">Basculer vers la caméra auxiliaire</string>
+    <string name="exposure_title">Compensation d'exposition</string>
+    <string name="sat_title">Saturation :</string>
+    <string name="sat_low">Bas (GCam par défaut)</string>
+    <string name="sat_med">Moyen</string>
+    <string name="sat_high">Haut</string>
+    <string name="pref_screen_manual_focus_title">Caméra auxiliaire</string>
+    <string name="pref_checkbox_mf_enabled_auto">Principal</string>
+    <string name="pref_checkbox_mf_enabled_macro">Téléobjectif</string>
+    <string name="pref_checkbox_mf_enabled_portrait">Large</string>
+    <string name="pref_mf_on_title">Montrer les boutons</string>
+    <string name="pref_init_mf_title">Mode prédéfini de l'objectif</string>
+    <string name="pref_ehn_awb_off">Sans</string>
+    <string name="pref_ehn_awb_p2">Pixel 2</string>
+    <string name="pref_ehn_awb_p3">Pixel 3</string>
+    <string name="pref_darkmode_title">Thème d'interface</string>
+    <string name="pref_darkmode_on">Sans</string>
+    <string name="pref_darkmode_off">Blanc</string>
+    <string name="pref_bitrate_title">Bitrate</string>
+    <string name="pref_bitrate_1">Auto</string>
+    <string name="pref_qjpg_title">Qualité JPEG finale</string>
+    <string name="pref_qjpg_90">Bas - 90%</string>
+    <string name="pref_qjpg_95">Moyen - 95%</string>
+    <string name="pref_qjpg_100">Haut - 100%</string>
+    <string name="pref_frames_title">HDR+ Enhanced Frames</string>
+    <string name="pref_frames_8">Bas - 8 images</string>
+    <string name="pref_frames_15">Moyen - 15 images</string>
+    <string name="pref_frames_25">Haut - 25 images</string>
+</resources>
